@@ -30,7 +30,7 @@ int yywrap(void)
 -------------------------------------------------------------------------------------------
 
 %{
-/* SHREYA MASKE 24070521196 C2 */
+
 #include <stdio.h>
 #include <math.h>
 #define YYSTYPE double
